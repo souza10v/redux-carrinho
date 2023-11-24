@@ -16,7 +16,7 @@ function Home() {
 
                         <div className='flex gap-3 items-center'>
                             <strong className='text-zinc-700/90'>
-                                R$ 1000
+                                R$ 1,000.00
                             </strong>
                             <button className='bg-zinc-900 p-1 rounded'>
                                 <BsCartPlus size={20} color="FFF" />
